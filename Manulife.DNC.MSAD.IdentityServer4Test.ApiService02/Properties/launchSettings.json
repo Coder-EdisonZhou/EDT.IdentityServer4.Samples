@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Manulife.DNC.MSAD.IdentityServer4Test.ApiService02": {
+      "commandName": "Project",
+      "launchBrowser": false,
+      "launchUrl": "api/values",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:5020/"
+    }
+  }
+}
